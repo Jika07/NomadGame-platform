@@ -1,0 +1,1 @@
+# NomadGame-platform
